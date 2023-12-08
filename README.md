@@ -1,13 +1,10 @@
-# Respostas Codewars 8kyu
+# Kata Pillars - Codewars 8kyu
 
 ## Descrição
-Este repositório contém um arquivo JavaScript com as respostas para todos os katas do Codewars na categoria 8kyu.
+Este repositório contém um arquivo JavaScript com a resposta para o kata "Pillars" na categoria 8kyu do Codewars.
 
-## Atenção
-O conteúdo deste repositório consiste nas soluções para os desafios do Codewars e pode conter respostas para problemas específicos. O objetivo é compartilhar conhecimento e ajudar outros usuários a entender como resolver esses desafios.
-
-## Aviso Legal
-Por favor, lembre-se de que compartilhar respostas completas para os desafios do Codewars pode violar os termos de serviço da plataforma. Certifique-se de verificar as políticas de uso do Codewars antes de utilizar ou compartilhar essas soluções.
+## Objetivo do Kata
+O kata "Pillars" desafia os participantes a calcular a quantidade total de pilares necessários para uma estrutura. A estrutura é composta por pilares dispostos em uma grade retangular, com pilares ausentes em uma extremidade. O objetivo é calcular o número total de pilares que faltam na extremidade oposta da grade.
 
 ## Contato
 Se tiver dúvidas ou precisar de mais informações, sinta-se à vontade para entrar em contato:
@@ -16,4 +13,4 @@ Se tiver dúvidas ou precisar de mais informações, sinta-se à vontade para en
 
 --- 
 
-Este repositório é criado com o intuito de compartilhar conhecimento e não para violar as políticas de uso do Codewars.
+O arquivo contém a solução para o kata "Pillars" no Codewars 8kyu.
